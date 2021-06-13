@@ -1,0 +1,78 @@
+Platform
+
+ Ubuntu (Inferred)
+AMI ID
+
+ ami-04bde106886a53080
+Monitoring
+disabled
+Platform details
+
+ Linux/UNIX
+AMI name
+
+ ubuntu/images/hvm-ssd/ubuntu-bionic-18.04-amd64-server-20210415
+Termination protection
+Disabled
+Launch time
+
+ Sun Jun 13 2021 00:22:21 GMT+0530 (India Standard Time) (about 21 hours)
+AMI location
+
+ 099720109477/ubuntu/images/hvm-ssd/ubuntu-bionic-18.04-amd64-server-20210415
+Lifecycle
+normal
+Stop-hibernate behavior
+disabled
+AMI Launch index
+0
+Key pair name
+
+ zenatixx
+State transition reason
+–
+Credit specification
+standard
+Kernel ID
+–
+State transition message
+–
+Usage operation
+
+ RunInstances
+RAM disk ID
+–
+Owner
+
+ 624861405505
+Enclaves Support
+–
+Boot mode
+–
+Host and placement group Info
+Host ID
+–
+Affinity
+–
+Placement group
+–
+Host resource group name
+–
+Tenancy
+
+ default
+Partition number
+–
+Virtualization type
+
+ hvm
+Reservation
+
+ r-0624f2a8cc9d9e225
+Number of vCPUs
+1
+Capacity reservation Info
+Capacity Reservation ID
+–
+Capacity Reservation setting
+open
