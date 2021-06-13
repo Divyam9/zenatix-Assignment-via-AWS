@@ -1,0 +1,17 @@
+1). image zenatixaws1.jpg shows the buckets which i have created in 
+    the S3 , to be specific "divyamiot3" 
+
+2). image zenatixaws2.jpg shows object file which we have created to 
+    be specific the name is " Zenatix test file " .
+
+3). image zenatixaws3.jpg shows the properties of the object file 
+    which is the zenatix test file . object overview is being displayed .
+   object url is specified as well 
+
+4). image zenatixaws4.jpg shows the zenatix test file which is being downloaded 
+    in the form of CSV format after clicking on the object URL 
+
+5). image zenatixaws5.jpg shows the instance summary for the 
+    instance which we have created for eg: instance id , public IPv4 address
+    and various ids such as vpc id and subnet id etc 
+
